@@ -16,7 +16,11 @@ Facebook 開發者資料：https://developers.facebook.com/docs/sharing/webmaste
 
 
 ### og:image 注意事項
-圖片尺寸為： 1200 * 628
-必須是完整的網址 (錯誤範例："/images/img.png")(正確範例："http://hexschool.com/images/img.png")
-如果更換圖片，建議使用不同檔名
-當圖片或內容有更新時，可用以下網址除錯https://developers.facebook.com/tools/debug/
+
+<ul>
+  <li>圖片尺寸為： 1200 * 628</li>
+  <li>必須是完整的網址 (錯誤範例："/images/img.png")(正確範例："http://hexschool.com/images/img.png")</li>
+  <li>如果更換圖片，建議使用不同檔名</li>
+  <li>當圖片或內容有更新時，可用以下網址除錯https://developers.facebook.com/tools/debug/</li>
+</ul>
+
